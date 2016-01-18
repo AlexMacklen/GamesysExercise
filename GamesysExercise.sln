@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesysExercise", "GamesysTest\GamesysExercise.csproj", "{1ED0B62F-1DDC-4AE0-8B39-6C32E1F3521C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameSysExerciseTests", "GameSysTestTests\GameSysExerciseTests.csproj", "{1A4E3263-B614-4792-8339-D0306C59BFD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ED0B62F-1DDC-4AE0-8B39-6C32E1F3521C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED0B62F-1DDC-4AE0-8B39-6C32E1F3521C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED0B62F-1DDC-4AE0-8B39-6C32E1F3521C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED0B62F-1DDC-4AE0-8B39-6C32E1F3521C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A4E3263-B614-4792-8339-D0306C59BFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A4E3263-B614-4792-8339-D0306C59BFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A4E3263-B614-4792-8339-D0306C59BFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A4E3263-B614-4792-8339-D0306C59BFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
